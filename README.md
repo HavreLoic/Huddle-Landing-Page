@@ -14,7 +14,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://havreloic.github.io/Huddle-Landing-Page/)
+- Live Site URL: [Add live site URL here](https://huddle-landing-page-havreloic.netlify.app/)
 
 ### Built with
 
